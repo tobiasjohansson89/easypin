@@ -6,7 +6,7 @@ export default function Navbar() {
             <li>
                 <div className="navbar">
                     <span>Welcome </span>
-                    <span>Bitch!</span>
+                    
                 </div>          
             </li>
         </ul>
